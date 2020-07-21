@@ -1,0 +1,82 @@
+@media only screen and (min-width: 768px) {
+  body {
+    background-color: #ffffff;
+  }
+  h1 {
+    background-color: transparent;
+    color: #000000;
+  }
+  .container {
+    background: #efefef;
+  }
+  button {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+  .box-container [class*="col-"] {
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 5rem;
+    margin-bottom: 0px;
+  }
+
+  .col-1 {
+    width: 8.33%;
+  }
+
+  .col-2 {
+    width: 16.66%;
+  }
+
+  .col-3 {
+    width: 25%;
+  }
+
+  .col-4 {
+    width: 33.33%;
+  }
+
+  .col-5 {
+    width: 41.66%;
+  }
+
+  .col-6 {
+    width: 50%;
+  }
+
+  .col-7 {
+    width: 58.33%;
+  }
+
+  .col-8 {
+    width: 66.66%;
+  }
+
+  .col-9 {
+    width: 75%;
+  }
+
+  .col-10 {
+    width: 83.33%;
+  }
+
+  .col-11 {
+    width: 91.66%;
+  }
+
+  .col-12 {
+    width: 100%;
+  }
+  .box-color-1 {
+    background: #2b8ead;
+  }
+  .box-color-2 {
+    background: #2f454e;
+  }
+  .box-color-3 {
+    background: #bfbfbf;
+  }
+  .box-color-4 {
+    background: #6f98a8;
+  }
+}
